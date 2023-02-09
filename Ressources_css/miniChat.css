@@ -1,0 +1,39 @@
+body{
+	background: #580463;
+}
+
+#container{
+	margin-left: 86%;
+
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: #D82424;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    /*width: 100%;*/
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #D82424;
+    border: 1px solid #D82424;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
